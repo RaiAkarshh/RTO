@@ -1,0 +1,25 @@
+--Go to EasyRTO folder...go in dist folder and select RTO.jar...open it with java environment
+Provide
+Login details as 
+
+For Admin 
+	id-admin
+	password-easyrto
+For Agents
+	id-agent11
+	password-harshal
+
+	id-agent14
+	password-pranav
+
+	id-agent15
+	password-aditya
+
+For successful processing check whether mysql is installed...and maintain a Database for entities.You can do this easily through Netbeans software..
+
+
+Produced and developed by
+
+-Prabav Firake
+-Aditya Gaikar
+-Harshal Dalvi
